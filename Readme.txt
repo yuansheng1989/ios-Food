@@ -1,4 +1,7 @@
-##  This is README.md in the template project
+
+This is Readme.txt in the template project
+
+############################################################
 
 You can use this project as a 'template'. How?
 
